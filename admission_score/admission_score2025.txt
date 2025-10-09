@@ -1,0 +1,452 @@
+Trường Đại học Nha Trang - Điểm chuẩn 2025
+
+Mã ngành: 7340101A
+Tên ngành: Quản trị kinh doanh (chương trình đào tạo đặc biệt: Quản trị kinh doanh tổng hợp; Quản trị kinh doanh quốc tế)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83.74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+
+Mã ngành: 7340201A
+Tên ngành: Tài chính - Ngân hàng (chương trình đào tạo đặc biệt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83.74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340301A
+Tên ngành: Kế toán (chương trình đặc biệt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 23
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 21,7
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 607,35
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 80,11
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7480201A
+Tên ngành: Công nghệ thông tin (chương trình đặc biệt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 22
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,75
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 580,88
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 76,49
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7480201B
+Tên ngành: Công nghệ thông tin Việt - Nhật
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 22
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,75
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 580,88
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 76,49
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7810201A
+Tên ngành: Quản trị khách sạn (chương trình đặc biệt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 25
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 23,58
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 666,21
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 87,64
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7810103A
+Tên ngành: Quản trị dịch vụ du lịch lữ hành (chương trình đặc biệt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 25
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 23,58
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 666,21
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 87,64
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7810103P
+Tên ngành: Quản trị dịch vụ du lịch và lữ hành (chương trình song ngữ Pháp-Việt)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh/Tiếng Pháp
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 23
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 21,7
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 607,35
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 80,11
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7420201MP
+Tên ngành: Công nghệ sinh học (chương trình Minh Phú-NTU)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520103MP
+Tên ngành: Cơ khí thủy sản thông minh (chương trình Minh Phú - NTU)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7620301MP
+Tên ngành: Nuôi trồng thuỷ sản (chương trình Minh Phú – NTU)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7540105MP
+Tên ngành: Công nghệ chế biến thuỷ sản (chương trình Minh Phú – NTU)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7540105HV
+Tên ngành: Công nghệ chế biến thuỷ sản (chương trình Hải Vương - NTU)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7220201
+Tên ngành: Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 25
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 23,58
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 666,21
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 87,64
+Điểm điều kiện tiếng Anh (Học bạ THPT): 7
+
+Mã ngành: 7310101
+Tên ngành: Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7310105
+Tên ngành: Kinh tế phát triển
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7340101
+Tên ngành: Quản trị kinh doanh
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340115
+Tên ngành: Marketing
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 27
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 25,47
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 737,29
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 95,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340121
+Tên ngành: Kinh doanh thương mại
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340201
+Tên ngành: Tài chính - Ngân hàng (02 chuyên ngành: Tài chính – Ngân hàng; Công nghệ tài chính)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340301
+Tên ngành: Kế toán
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 23
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 21,7
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 607,35
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 80,11
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340302
+Tên ngành: Kiểm toán
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 23
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 21,7
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 607,35
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 80,11
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7340405
+Tên ngành: Hệ thống thông tin quản lý
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7380101
+Tên ngành: Luật (02 chuyên ngành: Luật, Luật kinh tế )
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 27
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 25,47
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 737,29
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 95,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7420201
+Tên ngành: Công nghệ sinh học
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7480101
+Tên ngành: Khoa học máy tính
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 22
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,75
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 580,88
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 76,49
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7480201
+Tên ngành: Công nghệ thông tin (03 chuyên ngành: Công nghệ phần mềm; Hệ thống thông tin; Truyền thông và Mạng máy tính)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 22
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,75
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 580,88
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 76,49
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7510202
+Tên ngành: Công nghệ chế tạo máy
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520103
+Tên ngành: Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520114
+Tên ngành: Kỹ thuật cơ điện tử (02 chuyên ngành: Kỹ thuật cơ điện tử; Hệ thống nhúng và IoT)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520115
+Tên ngành: Kỹ thuật nhiệt (Kỹ thuật cơ điện lạnh, Điện lạnh, Cơ điện lạnh)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520116
+Tên ngành: Kỹ thuật cơ khí động lực
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520122
+Tên ngành: Kỹ thuật tàu thủy
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20,5
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,34	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 541,17
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 71,05
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520130
+Tên ngành: Kỹ thuật ô tô
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21,5
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,28	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 567,64
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 74,68
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520201
+Tên ngành: Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21,5
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 20,28	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 567,64
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 74,68
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520206
+Tên ngành: Kỹ thuật biển (Giàn khoan và Tuabin gió)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520216
+Tên ngành: Kỹ thuật điều khiển và tự động hóa
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 21
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,81	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 554,41
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 72,87
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520301
+Tên ngành: Kỹ thuật hóa học
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7520320
+Tên ngành: Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7540101
+Tên ngành: Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20,5
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 19,34	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 541,17
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 71,05
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7540105
+Tên ngành: Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7540106
+Tên ngành: Đảm bảo chất lượng và an toàn thực phẩm
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học, Hóa Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7580201
+Tên ngành: Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7580205
+Tên ngành: Kỹ thuật xây dựng công trình giao thông
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7620301
+Tên ngành: Nuôi trồng thủy sản (03 chuyên ngành: Công nghệ Nuôi trồng thủy sản; Quản lý sức khỏe động vật thủy sản, Quản lý Nuôi trồng thủy sản)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7620303
+Tên ngành: Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản; Khai thác thủy sản)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7620305
+Tên ngành: Quản lý thủy sản
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Sinh Học
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 20
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 18,87	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 527,94
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 69,24
+Điểm điều kiện tiếng Anh (Học bạ THPT): -
+
+Mã ngành: 7810103
+Tên ngành: Quản trị dịch vụ du lịch và lữ hành
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 25
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 23,58	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 666,21
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 87,64
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7810201
+Tên ngành: Quản trị khách sạn
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 25
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 23,58	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 666,21
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 87,64
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
+
+Mã ngành: 7840106
+Tên ngành: Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)
+Tổ hợp xét điểm thi THPT: Toán, Ngữ Văn, Tiếng Anh, Vật Lý
+Điểm chuẩn thi THPT 2025 có môn Toán hệ số 1: 24
+Điểm chuẩn thi THPT 2025 có môn Toán hoặc Tiếng Anh hệ số 2: 22,64	
+Điểm chuẩn ĐGNL ĐHQG-HCM 2025: 633,82
+Điểm chuẩn ĐGNL ĐHQG-HN 2025: 83,74
+Điểm điều kiện tiếng Anh (Học bạ THPT): 5
