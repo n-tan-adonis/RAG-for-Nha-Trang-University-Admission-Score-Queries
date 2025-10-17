@@ -83,9 +83,6 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBxxxxxx-your-real-key")
 ```
 Once your API key is set, run the chatbot with:
 ```bash
-python qabot.py
-```
-```bash
 uvicorn qabot:app --reload
 ```
 
