@@ -11,7 +11,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 # =====================================================
 # 1. Cấu hình Gemini
 # =====================================================
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyAnTDk0ompDK7douZVuUuGVwKk9hGmu5Ws")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "YOUR_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 
 GEMINI_MODELS = ["gemini-2.0-flash", "gemini-2.0-pro"]
