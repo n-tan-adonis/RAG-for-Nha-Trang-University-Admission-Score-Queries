@@ -86,7 +86,7 @@ Once your API key is set, run the chatbot with:
 python qabot.py
 ```
 ```bash
-python uvicorn qabot:app --reload
+uvicorn qabot:app --reload
 ```
 
 ## 🎬 Demo
