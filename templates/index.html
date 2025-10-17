@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot RAG</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <h2>💬 Trợ lý AI - Hỏi đáp tài liệu</h2>
+        <div id="chat-box"></div>
+        <div class="input-area">
+            <input type="text" id="question" placeholder="Nhập câu hỏi..." />
+            <button onclick="sendQuestion()">Gửi</button>
+        </div>
+    </div>
+
+    <script>
+        async function sendQuestion() {
+            const questionInput = document.getElementById("question");
+            const chatBox = document.getElementById("chat-box");
+            const question = questionInput.value.trim();
+
+            if (!question) return;
+
+            chatBox.innerHTML += `<div class='user-msg'>🧑‍💻 Bạn: ${question}</div>`;
+            questionInput.value = "";
+
+            const response = await fetch("/query", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ question })
+            });
+
+            const data = await response.json();
+            chatBox.innerHTML += `<div class='bot-msg'>🤖 AI: ${data.answer}</div>`;
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</body>
+</html>
