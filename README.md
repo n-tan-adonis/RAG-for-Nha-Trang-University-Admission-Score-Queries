@@ -33,6 +33,12 @@ This project is designed to help users quickly retrieve and interact with admiss
 │   ├── index.pkl
 │   └── prepare_vector_db.py # File for converting personal data into a vector database
 │
+├── 📁 static/
+│   └── style.css # CSS file
+│
+├── 📁 templates/
+│   └── index.html # HTML file
+│
 ├── qabot.py # Code file for chatbot Q&A
 └── setup.txt
 
@@ -78,6 +84,9 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBxxxxxx-your-real-key")
 Once your API key is set, run the chatbot with:
 ```bash
 python qabot.py
+```
+```bash
+python uvicorn qabot:app --reload
 ```
 
 ## 🎬 Demo
